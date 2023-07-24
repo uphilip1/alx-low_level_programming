@@ -1,1 +1,1 @@
-my first variables if else and while on C
+my first variables on C and if_else_and_while
